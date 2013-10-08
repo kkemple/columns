@@ -3,7 +3,7 @@
 /**
  * Plugin: jQuery Columns
  * Author: Kurtis Kemple
- * Email: kkemple@pixafy.com
+ * Email: kurtiskemple@gmail.com
  * Description: Grabs all children of the specified element and sets the children in columns for easier styling of "row" type layouts
  */
 
